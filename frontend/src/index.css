@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+a,
+a:visited {
+  color: inherit;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
