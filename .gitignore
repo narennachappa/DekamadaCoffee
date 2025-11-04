@@ -1,0 +1,13 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Dotnet
+**/bin/
+**/obj/
+
+# Misc
+*.user
+*.swp
+.DS_Store
